@@ -1,11 +1,11 @@
 ## FNF-VS-Shaggy
 
-You can FNF VS Shaggy right now [here!](https://superteamxp.github.io/FNF-VS-Shaggy/)
+You can FNF VS Shaggy right now [https://romantails9yt.github.io/FNF-Vs.-Shaggy-2.5/]
 
 # Completetly unblocked!
 
-This HTML5 port is property of SuperTeamXP
+This HTML5 port is completely free 
 
-Do not fork/clone this repository without acknowledging me and the creators
+Credit to SuperTeamXP
 
 Thanks to GithubSPerez, jorgeperezrojas, KadeDev, sayofthelor, and KadeCS for the mod and source code
